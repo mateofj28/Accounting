@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.contabilidad {
+  background-image: url(../public/assets/images/blocks/signin/contabilidadTwo.jpg);
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.transparencia {
+  background: #00000083;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-radius: 10px 0px 0px 10px ;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.green-badge{
+  background-color: #7adccde2;
+  color:#003e43;
+  border-radius: 2px;
+  padding: 2.5px 15px;
+  font-weight: 600;
+}
+
+.red-badge{
+  background-color: #f03f3fe2;
+  color:#430000;
+  border-radius: 2px;
+  padding: 2.5px 15px;
+  font-weight: 700;
+}
+.orange-badge{
+  background-color: #e96900fd;
+  color:#ffffff;
+  border-radius: 2px;
+  padding:2.5px 15px;
+  font-weight: 300;
+}
+
+.orange-badge{
+  background-color: #ff8906;
+  color:#fffffe;
+  border-radius: 2px;
+  padding:2.5px 15px;
+  font-weight: 550;
+}
+
+.purpe-badge{
+  background-color:#a90480;
+  color: #f5f7f7;
+  border-radius: 2px;
+  padding:2.5px 15px;
+  font-weight: 700;
+}
